@@ -1,12 +1,3 @@
-<p align="center">
-    <a href="http://krayincrm.com">
-        <img 
-            src="https://bagisto.com/wp-content/uploads/2021/06/bagisto-logo.png" 
-            alt="Total Downloads"
-        >
-    </a>
-</p>
-
 ## Topics
 
 1. [Introduction](#introduction)
@@ -17,7 +8,7 @@
 
 ### Introduction
 
-Krayin ERP is a comprehensive, open-source Enterprise Resource Planning (ERP) solution designed for Small and Medium Enterprises (SMEs) and large-scale enterprises. Built on **[Laravel](https://laravel.com)**, the most popular PHP framework, and **[FilamentPHP](https://filamentphp.com)**, a dynamic resource management library, Krayin ERP offers an extensible and developer-friendly platform for managing every aspect of your business operations.
+Aureus ERP is a comprehensive, open-source Enterprise Resource Planning (ERP) solution designed for Small and Medium Enterprises (SMEs) and large-scale enterprises. Built on **[Laravel](https://laravel.com)**, the most popular PHP framework, and **[FilamentPHP](https://filamentphp.com)**, a dynamic resource management library, Aureus ERP offers an extensible and developer-friendly platform for managing every aspect of your business operations.
 
 **Key Features**
 
@@ -27,7 +18,7 @@ Krayin ERP is a comprehensive, open-source Enterprise Resource Planning (ERP) so
 -   **Open-Source Solution**: Free to use, modify, and extend, fostering community-driven innovation and improvements.
 -   **Scalable for Enterprises**: Built to handle complex business processes and workflows, making it suitable for growing organizations.
 
-**Why Choose Krayin ERP?**
+**Why Choose Aureus ERP?**
 
 -   **Modern Technology Stack**: Combines Laravel's backend strength with FilamentPHP's efficient frontend capabilities.
 -   **Developer-Centric Design**: Offers clean code, modular architecture, and extensive documentation for custom development.
@@ -37,7 +28,7 @@ Krayin ERP is a comprehensive, open-source Enterprise Resource Planning (ERP) so
 
 ### Requirements
 
-To run and develop Krayin ERP, ensure your environment meets the following requirements:
+To run and develop Aureus ERP, ensure your environment meets the following requirements:
 
 -   **PHP**: Version 8.2 or higher.
 -   **Laravel**: Version 11.x, for leveraging the latest framework features and improvements.
@@ -50,7 +41,7 @@ To run and develop Krayin ERP, ensure your environment meets the following requi
 
 ### Installation & Configuration
 
-Installing and setting up Krayin ERP is quick and straightforward. Follow the steps below to get started:
+Installing and setting up Aureus ERP is quick and straightforward. Follow the steps below to get started:
 
 1. **Run the Installation Command**  
    Simply execute the following command in your terminal:
@@ -74,14 +65,14 @@ Installing and setting up Krayin ERP is quick and straightforward. Follow the st
     - These credentials are used to log in to the admin panel.
 
 4. **Installation Complete**  
-   Once the above steps are finished, the installation process is complete, and you can start using Krayin ERP.
+   Once the above steps are finished, the installation process is complete, and you can start using Aureus ERP.
 
-That’s it! With just one command, your Krayin ERP environment is ready to use.
+That’s it! With just one command, your Aureus ERP environment is ready to use.
 
 ### License
 
-Krayin CRM is a truly opensource CRM framework which will always be free under the OSL-3.0 License.
+Aureus CRM is a truly opensource CRM framework which will always be free under the OSL-3.0 License.
 
 ### Security Vulnerabilities
 
-Please don't disclose security vulnerabilities publicly. If you find any security vulnerability in Krayin CRM then please email us: sales@krayinerp.com.
+Please don't disclose security vulnerabilities publicly. If you find any security vulnerability in Aureus CRM then please email us: sales@aureuserp.com.
